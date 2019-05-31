@@ -1,3 +1,7 @@
+-- I made some changes to the samle schema file, these were due to errors or issues when I tried to run this script.
+-- I updated all the id fields to bigint intead of integter becasuse my data contained values outside the range of integer.
+-- I changed the key column to key2, because key was a protected value and was not allowed in MySQL.
+
 CREATE TABLE osm.nodes (
     id bigint PRIMARY KEY NOT NULL,
     lat REAL,
