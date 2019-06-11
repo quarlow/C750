@@ -7515,6 +7515,7 @@ id,key,value,category
 356676417,name,Viewmont School,regular
 356676423,city,Salt Lake City,addr
 356676423,housenumber,5770,addr
+356676423,postcode,84123,addr
 356676423,street,South 1500 West,addr
 356676423,amenity,hospital,regular
 356676423,emergency,no,regular
@@ -7677,6 +7678,7 @@ id,key,value,category
 356676904,religion,christian,regular
 356676906,city,South Salt Lake,addr
 356676906,housenumber,3805,addr
+356676906,postcode,84115,addr
 356676906,state,UT,addr
 356676906,street,Main Street,addr
 356676906,amenity,place_of_worship,regular
@@ -7717,6 +7719,7 @@ id,key,value,category
 356676931,religion,christian,regular
 356676932,city,Murray,addr
 356676932,housenumber,495,addr
+356676932,postcode,84107,addr
 356676932,state,UT,addr
 356676932,street,East 5600 South,addr
 356676932,amenity,place_of_worship,regular
@@ -7749,6 +7752,7 @@ id,key,value,category
 356676936,name,The Church of Jesus Christ of Latter-day Saints,regular
 356676936,religion,christian,regular
 356676937,city,Murray,addr
+356676937,postcode,84107,addr
 356676937,amenity,place_of_worship,regular
 356676937,building,yes,regular
 356676937,denomination,mormon,regular
@@ -8305,6 +8309,7 @@ id,key,value,category
 356682727,religion,christian,regular
 356682728,city,Murray,addr
 356682728,housenumber,5605,addr
+356682728,postcode,84107,addr
 356682728,state,UT,addr
 356682728,street,South Vine Street,addr
 356682728,amenity,place_of_worship,regular
@@ -8320,6 +8325,7 @@ id,key,value,category
 356682728,website,https://www.lds.org/maps/meetinghouses/?lang=eng,regular
 356682759,city,Murray,addr
 356682759,housenumber,850,addr
+356682759,postcode,84107,addr
 356682759,state,UT,addr
 356682759,street,East Vine Street,addr
 356682759,amenity,place_of_worship,regular
@@ -8598,6 +8604,7 @@ id,key,value,category
 356685643,religion,christian,regular
 356685647,city,Salt Lake City,addr
 356685647,housenumber,1430,addr
+356685647,postcode,84117,addr
 356685647,street,East 4500 South,addr
 356685647,amenity,nursing_home,regular
 356685647,feature_id,2432249,gnis
@@ -8607,6 +8614,7 @@ id,key,value,category
 356685647,website,https://www.silveradocare.com/silverado-locations/utah/salt-lake-city/aspen-park/,regular
 356685658,city,Salt Lake City,addr
 356685658,housenumber,617,addr
+356685658,postcode,84107,addr
 356685658,street,East 3900 South,addr
 356685658,amenity,hospital,regular
 356685658,emergency,no,regular
@@ -8968,6 +8976,7 @@ id,key,value,category
 366385695,city,Salt Lake City,addr
 366385695,country,US,addr
 366385695,housenumber,2266,addr
+366385695,postcode,84109,addr
 366385695,state,UT,addr
 366385695,street,East Evergreen Avenue,addr
 366385695,amenity,library,regular
@@ -9493,6 +9502,7 @@ id,key,value,category
 485536872,takeaway,yes,regular
 485536873,city,Salt Lake City,addr
 485536873,housenumber,293,addr
+485536873,postcode,84115,addr
 485536873,street,2100 South,addr
 485536873,amenity,fast_food,regular
 485536873,brand,Carl's Jr.,regular
@@ -9509,6 +9519,7 @@ id,key,value,category
 486013057,highway,turning_circle,regular
 486033120,city,Murray,addr
 486033120,housenumber,5735,addr
+486033120,postcode,84107,addr
 486033120,state,UT,addr
 486033120,street,South Fashion Boulevard,addr
 486033120,amenity,place_of_worship,regular
@@ -9667,9 +9678,11 @@ id,key,value,category
 1223839192,railway,crossing,regular
 1224151173,amenity,parking,regular
 1384761824,housenumber,2211 W,addr
+1384761824,postcode,84119,addr
 1384761824,street,2300 South,addr
 1384761824,name,Alphacorp Security,regular
 1384765158,housenumber,2211 W,addr
+1384765158,postcode,84119,addr
 1384765158,street,2300 South,addr
 1384765158,name,SIRE Technologies,regular
 1402350955,name,Wheeler Farm,regular
@@ -9699,6 +9712,7 @@ id,key,value,category
 1525109270,crossing,traffic_signals,regular
 1525109270,highway,crossing,regular
 1555964274,housenumber,266,addr
+1555964274,postcode,84115,addr
 1555964274,street,2100 South,addr
 1555964274,amenity,cafe,regular
 1555964274,cuisine,coffee_shop,regular
@@ -9785,6 +9799,7 @@ id,key,value,category
 1586419934,crossing,traffic_signals,regular
 1586419934,highway,traffic_signals,regular
 1586472019,housenumber,2041 South,addr
+1586472019,postcode,84108,addr
 1586472019,street,2100 East,addr
 1586472019,amenity,restaurant,regular
 1586472019,cuisine,american,regular
@@ -9900,7 +9915,7 @@ id,key,value,category
 1611687545,name,Jared,regular
 1611687545,old_name,Barnes and Noble,regular
 1611687545,amenity,shop,regular
-1611687545,type,jewellery,shop
+1611687545,type,jewelry,shop
 1611687548,amenity,fast_food,regular
 1611687548,brand,KFC,regular
 1611687548,wikidata,Q524757,brand
@@ -10148,6 +10163,7 @@ id,key,value,category
 1727243483,highway,crossing,regular
 1738863673,city,Salt Lake City,addr
 1738863673,housenumber,3167 E,addr
+1738863673,postcode,84109,addr
 1738863673,state,UT,addr
 1738863673,street,3300 South,addr
 1738863673,amenity,fast_food,regular
@@ -10182,6 +10198,7 @@ id,key,value,category
 1832551552,highway,turning_circle,regular
 1832567725,city,Salt Lake City,addr
 1832567725,country,US,addr
+1832567725,postcode,84106,addr
 1832567725,state,UT,addr
 1832567725,brand,Sprint,regular
 1832567725,wikidata,Q301965,brand
@@ -10293,6 +10310,7 @@ id,key,value,category
 1942404680,city,Taylorsville,addr
 1942404680,country,US,addr
 1942404680,housenumber,6417,addr
+1942404680,postcode,84084,addr
 1942404680,state,UT,addr
 1942404680,street,South Timpanogos Way,addr
 1983025890,amenity,restaurant,regular
@@ -10350,6 +10368,7 @@ id,key,value,category
 2135342450,leisure,sports_centre,regular
 2135342450,name,Sports Mall,regular
 2143493877,city,Murray,addr
+2143493877,postcode,84107,addr
 2143493877,street,State Street,addr
 2143493877,amenity,fast_food,regular
 2143493877,brand,McDonald's,regular
@@ -10380,6 +10399,7 @@ id,key,value,category
 2176658635,smoking,no,regular
 2176658635,website,https://bombayhouse.com/,regular
 2177314246,housenumber,124,addr
+2177314246,postcode,84107,addr
 2177314246,street,East 5770 South,addr
 2177314246,amenity,college,regular
 2177314246,building,yes,regular
@@ -10562,6 +10582,7 @@ id,key,value,category
 2332260276,type,clothes,shop
 2332286255,city,Murray,addr
 2332286255,housenumber,6284,addr
+2332286255,postcode,84107,addr
 2332286255,state,UT,addr
 2332286255,street,South State Street,addr
 2332286255,brand,Sprouts Farmers Market,regular
@@ -10575,9 +10596,10 @@ id,key,value,category
 2332286275,amenity,shop,regular
 2332286275,type,department_store,shop
 2332323385,amenity,restaurant,regular
-2332323385,cuisine,steak,regular
+2332323385,cuisine,steak_house,regular
 2332323385,name,Sizzler,regular
 2332662884,city,Salt Lake City,addr
+2332662884,postcode,84106,addr
 2332662884,state,UT,addr
 2332662884,amenity,restaurant,regular
 2332662884,cuisine,asian,regular
@@ -10594,6 +10616,7 @@ id,key,value,category
 2332662914,name,Pizza Hut,regular
 2332666879,city,Salt Lake City,addr
 2332666879,housenumber,2227 S,addr
+2332666879,postcode,84106,addr
 2332666879,state,UT,addr
 2332666879,street,Highland Drive,addr
 2332666879,amenity,cinema,regular
@@ -10750,7 +10773,7 @@ id,key,value,category
 2335874855,wikipedia,en:Bed Bath & Beyond,brand
 2335874855,name,Bed Bath & Beyond,regular
 2335874855,amenity,shop,regular
-2335874855,type,household,shop
+2335874855,type,houseware,shop
 2335874858,amenity,fast_food,regular
 2335874858,cuisine,sandwich,regular
 2335874858,name,Subway,regular
@@ -10775,6 +10798,7 @@ id,key,value,category
 2336725527,name,America First Credit Union,regular
 2336725530,city,Salt Lake City,addr
 2336725530,housenumber,1180,addr
+2336725530,postcode,84106,addr
 2336725530,state,UT,addr
 2336725530,street,Brickyard Road,addr
 2336725530,brand,OfficeMax,regular
@@ -10821,7 +10845,7 @@ id,key,value,category
 2337334737,cuisine,italian,regular
 2337334737,name,Italian Village,regular
 2337334742,amenity,restaurant,regular
-2337334742,cuisine,steak,regular
+2337334742,cuisine,steak_house,regular
 2337334742,name,Tepanyaki Steakhouse,regular
 2337334745,amenity,bank,regular
 2337334745,atm,yes,regular
@@ -10885,6 +10909,7 @@ id,key,value,category
 2337475068,amenity,fuel,regular
 2341509718,city,South Salt Lake City,addr
 2341509718,housenumber,810,addr
+2341509718,postcode,84106,addr
 2341509718,state,UT,addr
 2341509718,street,3300 South,addr
 2341509718,amenity,library,regular
@@ -10925,6 +10950,7 @@ id,key,value,category
 2376561063,city,Salt Lake City,addr
 2376561063,country,US,addr
 2376561063,housenumber,1028,addr
+2376561063,postcode,84106,addr
 2376561063,state,UT,addr
 2376561063,street,2100 South,addr
 2376561063,amenity,fast_food,regular
@@ -10972,6 +10998,7 @@ id,key,value,category
 2392927434,highway,turning_circle,regular
 2403976399,city,Salt Lake City,addr
 2403976399,housenumber,719 E,addr
+2403976399,postcode,84106,addr
 2403976399,state,UT,addr
 2403976399,street,2100 South,addr
 2403976399,amenity,fast_food,regular
@@ -10980,6 +11007,7 @@ id,key,value,category
 2403976399,opening_hours,Mo-Su 05:30-21:00,regular
 2403976399,operator,Beans & Brews,regular
 2403977592,housenumber,675 E,addr
+2403977592,postcode,84105,addr
 2403977592,street,2100 South,addr
 2403977592,amenity,restaurant,regular
 2403977592,cuisine,chinese,regular
@@ -11317,6 +11345,7 @@ id,key,value,category
 2580177607,city,Salt Lake City,addr
 2580177607,country,US,addr
 2580177607,housenumber,1044,addr
+2580177607,postcode,84106,addr
 2580177607,street,East 2100 South,addr
 2580177607,amenity,restaurant,regular
 2580177607,cuisine,pizza,regular
@@ -11500,6 +11529,7 @@ id,key,value,category
 2613142500,railway,switch,regular
 2614836213,city,Salt Lake City,addr
 2614836213,housenumber,2121 East,addr
+2614836213,postcode,84109,addr
 2614836213,street,2100 South,addr
 2614836213,amenity,restaurant,regular
 2614836213,cuisine,chinese,regular
@@ -11568,6 +11598,7 @@ id,key,value,category
 2668722860,name,City of South Salt Lake City Hall,regular
 2739921537,city,Taylorsville,addr
 2739921537,housenumber,5670 South,addr
+2739921537,postcode,84123,addr
 2739921537,street,Redwood Road,addr
 2739921537,name,Bed Bach and Beyond,regular
 2765809080,amenity,restaurant,regular
@@ -11596,6 +11627,7 @@ id,key,value,category
 2918048394,park_ride,yes,regular
 2918049151,city,Millcreek,addr
 2918049151,housenumber,3961S,addr
+2918049151,postcode,84124,addr
 2918049151,state,UT,addr
 2918049151,street,Wasatch Boulevard,addr
 2918049151,alt_name,Rawtopia Living Cuisine and Beyond,regular
@@ -11624,11 +11656,12 @@ id,key,value,category
 2953607572,highway,stop,regular
 2960504241,city,Salt Lake City,addr
 2960504241,housenumber,3275 S,addr
+2960504241,postcode,84109,addr
 2960504241,state,UT,addr
 2960504241,street,2300 East,addr
 2960504241,name,Red Hanger,regular
 2960504241,amenity,shop,regular
-2960504241,type,dry_cleaner,shop
+2960504241,type,dry_cleaning,shop
 2960504243,bench,no,regular
 2960504243,highway,bus_stop,regular
 2960504243,shelter,no,regular
@@ -11646,6 +11679,7 @@ id,key,value,category
 3028559218,type,pillar,fire_hydrant
 3051227964,city,Salt Lake City,addr
 3051227964,housenumber,4804 South,addr
+3051227964,postcode,84123,addr
 3051227964,street,Redwood Road,addr
 3051227964,amenity,fuel,regular
 3051227964,name,M & M Service Station,regular
@@ -11755,6 +11789,7 @@ id,key,value,category
 3316938981,highway,turning_circle,regular
 3317574756,city,Salt Lake City,addr
 3317574756,housenumber,3700 South,addr
+3317574756,postcode,84106,addr
 3317574756,state,Utah,addr
 3317574756,street,2300 East,addr
 3317574756,building,residential,regular
@@ -11762,6 +11797,7 @@ id,key,value,category
 3317574756,website,http://www.hamptonsutah.com/,regular
 3317598954,city,Holladay,addr
 3317598954,housenumber,2280 E,addr
+3317598954,postcode,84117,addr
 3317598954,street,Olympus Drive,addr
 3317598954,building,residential,regular
 3318936309,barrier,yes,regular
@@ -11771,6 +11807,7 @@ id,key,value,category
 3359749828,sport,10pin,regular
 3359801138,city,Millcreek,addr
 3359801138,housenumber,3612 East,addr
+3359801138,postcode,84124,addr
 3359801138,state,Ut,addr
 3359801138,street,Jupiter Drive,addr
 3359801138,amenity,fire_station,regular
@@ -11801,6 +11838,7 @@ id,key,value,category
 3445545682,highway,turning_circle,regular
 3475158871,city,Taylorsville,addr
 3475158871,housenumber,1911 West,addr
+3475158871,postcode,84129,addr
 3475158871,state,Utah,addr
 3475158871,street,Rocky Road,addr
 3475158871,craft,roofer,regular
@@ -12116,6 +12154,7 @@ id,key,value,category
 3636084375,name,Mountain America Credit Union,regular
 3636084376,city,Murray,addr
 3636084376,housenumber,5808,addr
+3636084376,postcode,84107,addr
 3636084376,state,UT,addr
 3636084376,street,South State Street,addr
 3636084376,name,Larry H. Miller Honda Murray,regular
@@ -12944,6 +12983,7 @@ id,key,value,category
 3641296986,emergency,fire_hydrant,regular
 3641631855,city,South Salt Lake,addr
 3641631855,housenumber,370 W,addr
+3641631855,postcode,84115,addr
 3641631855,state,Utah,addr
 3641631855,street,Ironwood Drive,addr
 3641631855,name,WhiteStone Concrete Design,regular
@@ -13229,6 +13269,7 @@ id,key,value,category
 3705833422,emergency,fire_hydrant,regular
 3713816520,city,Holladay,addr
 3713816520,housenumber,4670 South,addr
+3713816520,postcode,84117,addr
 3713816520,state,UT,addr
 3713816520,street,4670 S 2300 East,addr
 3713816520,amenity,restaurant,regular
@@ -13243,6 +13284,7 @@ id,key,value,category
 3713816520,website,https://taqueria27.com/,regular
 3713816521,city,Holladay,addr
 3713816521,housenumber,4670 South,addr
+3713816521,postcode,84117,addr
 3713816521,state,UT,addr
 3713816521,street,4670 S 2300 East,addr
 3713816521,amenity,cafe,regular
@@ -13262,6 +13304,7 @@ id,key,value,category
 3713816522,type,deli,shop
 3713816523,city,Holladay,addr
 3713816523,housenumber,4640 South,addr
+3713816523,postcode,84117,addr
 3713816523,state,UT,addr
 3713816523,street,2300 East,addr
 3713816523,amenity,restaurant,regular
@@ -13280,6 +13323,7 @@ id,key,value,category
 3728511351,name,Wells Fargo,regular
 3728511467,city,Salt Lake City,addr
 3728511467,housenumber,1988,addr
+3728511467,postcode,84105,addr
 3728511467,street,1100 East,addr
 3728511467,name,Eightline,regular
 3728511467,office,estate_agent,regular
@@ -13287,11 +13331,13 @@ id,key,value,category
 3728511780,street,2100 South,addr
 3728511781,city,Salt Lake City,addr
 3728511781,housenumber,1067,addr
+3728511781,postcode,84105,addr
 3728511781,street,2100 South,addr
 3728511781,name,Farmers,regular
 3728511781,office,insurance,regular
 3728511972,city,Salt Lake City,addr
 3728511972,housenumber,1962,addr
+3728511972,postcode,84105,addr
 3728511972,street,1100 East,addr
 3728511972,atm,no,regular
 3728511972,internet_access,no,regular
@@ -13302,6 +13348,7 @@ id,key,value,category
 3728511972,wheelchair,no,regular
 3728511974,city,Salt Lake City,addr
 3728511974,housenumber,1075,addr
+3728511974,postcode,84105,addr
 3728511974,street,2100 South,addr
 3728511974,name,Urbana on 11th,regular
 3728511974,office,estate_agent,regular
@@ -13330,6 +13377,7 @@ id,key,value,category
 3728512340,wheelchair,yes,regular
 3728512430,city,Salt Lake City,addr
 3728512430,housenumber,1057,addr
+3728512430,postcode,84105,addr
 3728512430,street,2100 South,addr
 3728512430,leisure,fitness_centre,regular
 3728512430,name,The Bar Method,regular
@@ -13341,6 +13389,7 @@ id,key,value,category
 3728515325,type,books,shop
 3728515834,city,Salt Lake City,addr
 3728515834,housenumber,1119,addr
+3728515834,postcode,84106,addr
 3728515834,state,UT,addr
 3728515834,street,2100 South,addr
 3728515834,name,Raunch Skateboard Shop,regular
@@ -13350,6 +13399,7 @@ id,key,value,category
 3728516411,name,Wells Fargo,regular
 3728518476,city,Salt Lake City,addr
 3728518476,housenumber,1113,addr
+3728518476,postcode,84106,addr
 3728518476,state,UT,addr
 3728518476,street,2100 South,addr
 3728518476,craft,tailor,regular
@@ -13358,18 +13408,21 @@ id,key,value,category
 3728518476,type,tailor,shop
 3728518477,city,Salt Lake City,addr
 3728518477,housenumber,1123,addr
+3728518477,postcode,84106,addr
 3728518477,state,UT,addr
 3728518477,street,2100 South,addr
 3728518477,leisure,fitness_centre,regular
 3728518477,name,Love Train cycle and Fitness Studio,regular
 3728522833,city,Salt Lake City,addr
 3728522833,housenumber,1115,addr
+3728522833,postcode,84106,addr
 3728522833,state,UT,addr
 3728522833,street,2100 South,addr
 3728522833,amenity,studio,regular
 3728522833,name,Brittany Golden Studio,regular
 3728522834,city,Salt Lake City,addr
 3728522834,housenumber,1125,addr
+3728522834,postcode,84106,addr
 3728522834,state,UT,addr
 3728522834,street,2100 South,addr
 3728522834,name,All About Coins,regular
@@ -13383,14 +13436,16 @@ id,key,value,category
 3728522837,type,clothes,shop
 3728524638,city,Salt Lake City,addr
 3728524638,housenumber,1111,addr
+3728524638,postcode,84106,addr
 3728524638,state,UT,addr
 3728524638,street,2100 South,addr
 3728524638,craft,jeweller,regular
 3728524638,name,Fankhauser Jewelry,regular
 3728524638,amenity,shop,regular
-3728524638,type,jewellery,shop
+3728524638,type,jewelry,shop
 3728525250,city,Salt Lake City,addr
 3728525250,housenumber,1117,addr
+3728525250,postcode,84106,addr
 3728525250,state,UT,addr
 3728525250,street,2100 South,addr
 3728525250,name,SLC Hemp,regular
@@ -13529,7 +13584,7 @@ id,key,value,category
 3738287661,name,Meiers Chicken,regular
 3738289627,name,Frampton's Holladay Cleaners,regular
 3738289627,amenity,shop,regular
-3738289627,type,dry_cleaner,shop
+3738289627,type,dry_cleaning,shop
 3738289628,housenumber,4736,addr
 3738289628,street,Holladay Boulevard,addr
 3738289628,name,Cooper Tires,regular
@@ -13552,6 +13607,7 @@ id,key,value,category
 3738300425,type,bicycle,shop
 3738300426,city,Holladay,addr
 3738300426,housenumber,6249 South,addr
+3738300426,postcode,84121,addr
 3738300426,state,Ut,addr
 3738300426,street,Highland Drive,addr
 3738300426,name,The Store Stuff,regular
@@ -13840,6 +13896,7 @@ id,key,value,category
 3793730757,amenity,restaurant,regular
 3793730757,name,Denny's,regular
 3809324057,housenumber,2343 E,addr
+3809324057,postcode,84109,addr
 3809324057,street,3300 South,addr
 3809324057,amenity,cafe,regular
 3809324057,cuisine,diner,regular
@@ -13877,6 +13934,7 @@ id,key,value,category
 3810274102,name,Redhot Dog,regular
 3810274103,city,Salt Lake City,addr
 3810274103,housenumber,2227 S,addr
+3810274103,postcode,84106,addr
 3810274103,state,UT,addr
 3810274103,street,Highland Drive,addr
 3810274103,unit,e2,addr
@@ -14047,13 +14105,13 @@ id,key,value,category
 3999437633,type,cosmetics,shop
 3999437634,name,Schubach Jewelers,regular
 3999437634,amenity,shop,regular
-3999437634,type,jewellery,shop
+3999437634,type,jewelry,shop
 3999437635,brand,Kay Jewelers,regular
 3999437635,wikidata,Q7611434,brand
 3999437635,wikipedia,en:Sterling Jewelers,brand
 3999437635,name,Kay Jewelers,regular
 3999437635,amenity,shop,regular
-3999437635,type,jewellery,shop
+3999437635,type,jewelry,shop
 3999437636,name,Fanzz,regular
 3999437636,amenity,shop,regular
 3999437636,type,clothes,shop
@@ -14076,7 +14134,7 @@ id,key,value,category
 3999437642,type,car_repair,shop
 3999437643,name,Sierra West Jewelers,regular
 3999437643,amenity,shop,regular
-3999437643,type,jewellery,shop
+3999437643,type,jewelry,shop
 3999437644,name,Carhartt,regular
 3999437644,amenity,shop,regular
 3999437644,type,clothes,shop
@@ -14085,7 +14143,7 @@ id,key,value,category
 3999437645,type,clothes,shop
 3999437646,name,J Brooks Jewelers,regular
 3999437646,amenity,shop,regular
-3999437646,type,jewellery,shop
+3999437646,type,jewelry,shop
 3999437648,name,Talbots,regular
 3999437648,amenity,shop,regular
 3999437648,type,clothes,shop
@@ -14094,7 +14152,7 @@ id,key,value,category
 3999437649,type,books,shop
 3999437650,name,Mike's Custom Jewelry,regular
 3999437650,amenity,shop,regular
-3999437650,type,jewellery,shop
+3999437650,type,jewelry,shop
 3999437651,name,White Elegance,regular
 3999437651,amenity,shop,regular
 3999437651,type,clothes,shop
@@ -14124,7 +14182,7 @@ id,key,value,category
 3999437656,type,gift,shop
 3999438757,name,Massey's Jewelers,regular
 3999438757,amenity,shop,regular
-3999438757,type,jewellery,shop
+3999438757,type,jewelry,shop
 3999438758,brand,Gymboree,regular
 3999438758,wikidata,Q4039771,brand
 3999438758,wikipedia,en:Gymboree,brand
@@ -14211,16 +14269,16 @@ id,key,value,category
 3999664297,type,nutrition_supplements,shop
 3999664298,name,Morelo's Jewelry,regular
 3999664298,amenity,shop,regular
-3999664298,type,jewellery,shop
+3999664298,type,jewelry,shop
 3999664299,name,Morgan Jewelers,regular
 3999664299,amenity,shop,regular
-3999664299,type,jewellery,shop
+3999664299,type,jewelry,shop
 3999664300,name,Ryan's Custom Jewelry,regular
 3999664300,amenity,shop,regular
-3999664300,type,jewellery,shop
+3999664300,type,jewelry,shop
 3999664301,name,Schubach Jewelers,regular
 3999664301,amenity,shop,regular
-3999664301,type,jewellery,shop
+3999664301,type,jewelry,shop
 3999664302,name,DC Western Wear,regular
 3999664302,amenity,shop,regular
 3999664302,type,clothes,shop
@@ -14338,6 +14396,7 @@ id,key,value,category
 3999878473,type,yes,shop
 3999878489,city,Salt Lake City,addr
 3999878489,housenumber,2033 E,addr
+3999878489,postcode,84109,addr
 3999878489,state,UT,addr
 3999878489,street,3300 South,addr
 3999878489,name,Red Balloon Toy Store,regular
@@ -14355,6 +14414,7 @@ id,key,value,category
 3999878493,cuisine,sushi,regular
 3999878493,name,New Akasaka Sushi,regular
 3999878494,city,Salt Lake City,addr
+3999878494,postcode,84109,addr
 3999878494,state,UT,addr
 3999878494,brand,Planet Fitness,regular
 3999878494,wikidata,Q7201095,brand
@@ -14410,6 +14470,7 @@ id,key,value,category
 4063564671,highway,stop,regular
 4067095012,city,Salt Lake City,addr
 4067095012,housenumber,2004,addr
+4067095012,postcode,84105,addr
 4067095012,state,UT,addr
 4067095012,street,800 East,addr
 4067095012,craft,hvac,regular
@@ -14675,6 +14736,7 @@ id,key,value,category
 4207788578,type,tyres,shop
 4207882729,city,Salt Lake City,addr
 4207882729,housenumber,4782,addr
+4207882729,postcode,84117,addr
 4207882729,street,South Holladay Boulevard,addr
 4207882729,amenity,nursing_home,regular
 4207882729,name,Holladay Healthcare Center,regular
@@ -14787,6 +14849,7 @@ id,key,value,category
 4245078267,wikidata,Q483551,operator
 4245078267,wikipedia,en:Walmart,operator
 4262058989,housenumber,2266,addr
+4262058989,postcode,84109,addr
 4262058989,street,East Evergreen Avenue,addr
 4262058989,amenity,community_centre,regular
 4262058989,internet_access,wlan,regular
@@ -14840,6 +14903,7 @@ id,key,value,category
 4305186179,name,The Winner School,regular
 4305186180,city,Holladay,addr
 4305186180,housenumber,6093 S,addr
+4305186180,postcode,84121,addr
 4305186180,state,UT,addr
 4305186180,street,Highland Drive,addr
 4305186180,amenity,restaurant,regular
@@ -14850,7 +14914,7 @@ id,key,value,category
 4305186180,takeaway,yes,regular
 4305186591,name,Village Cleaners,regular
 4305186591,amenity,shop,regular
-4305186591,type,dry_cleaner,shop
+4305186591,type,dry_cleaning,shop
 4325777723,crossing,uncontrolled,regular
 4325777723,highway,crossing,regular
 4331640491,amenity,post_box,regular
@@ -14923,6 +14987,7 @@ id,key,value,category
 4346402144,name,The Sugar Mill,regular
 4346402144,tourism,information,regular
 4357829592,housenumber,3898 S,addr
+4357829592,postcode,84106,addr
 4357829592,street,900 East,addr
 4357829592,amenity,cafe,regular
 4357829592,cuisine,coffee_shop,regular
@@ -14934,6 +14999,7 @@ id,key,value,category
 4357829592,phone,8012661346,regular
 4365238325,city,Murray,addr
 4365238325,housenumber,279,addr
+4365238325,postcode,84107,addr
 4365238325,street,East 5900 South,addr
 4365238325,amenity,doctors,regular
 4365238325,healthcare,doctor,regular
@@ -14959,6 +15025,7 @@ id,key,value,category
 4415976924,highway,crossing,regular
 4435602803,city,Salt Lake City,addr
 4435602803,housenumber,4201,addr
+4435602803,postcode,84107,addr
 4435602803,state,UT,addr
 4435602803,street,S Street,addr
 4435602803,name,Discount Title Loans,regular
@@ -14971,6 +15038,7 @@ id,key,value,category
 4468780649,atm,yes,regular
 4468780649,name,Granite Credit Union,regular
 4477049190,housenumber,2795 S,addr
+4477049190,postcode,84109,addr
 4477049190,street,2300 East,addr
 4477049190,amenity,cafe,regular
 4477049190,cuisine,coffee_shop,regular
@@ -15011,6 +15079,7 @@ id,key,value,category
 4534750152,name,Spitz,regular
 4534752187,city,Salt Lake City,addr
 4534752187,housenumber,1457,addr
+4534752187,postcode,84106,addr
 4534752187,state,UT,addr
 4534752187,street,East 3350 South,addr
 4534752187,amenity,restaurant,regular
@@ -15108,6 +15177,7 @@ id,key,value,category
 4582187802,leisure,fishing,regular
 4602102101,city,Salt Lake City,addr
 4602102101,housenumber,2200,addr
+4602102101,postcode,84119,addr
 4602102101,state,ut,addr
 4602102101,street,West Parkway Boulevard Suite 100,addr
 4602102101,amenity,restaurant,regular
@@ -15128,6 +15198,7 @@ id,key,value,category
 4619285140,highway,turning_circle,regular
 4620170814,city,Salt Lake City,addr
 4620170814,housenumber,1434,addr
+4620170814,postcode,84106,addr
 4620170814,state,UT,addr
 4620170814,street,E 3045 South,addr
 4620170814,name,Vitaminerals,regular
@@ -15259,6 +15330,7 @@ id,key,value,category
 4745899952,highway,crossing,regular
 4745899953,highway,crossing,regular
 4747247421,housenumber,3474,addr
+4747247421,postcode,84115,addr
 4747247421,street,State Street,addr
 4747247421,tyres,yes,atv
 4747247421,clothes,yes,motorcycle
@@ -15276,6 +15348,7 @@ id,key,value,category
 4747247421,website,https://www.wrightsmotorcycleparts.com/,regular
 4748801048,city,Salt Lake City,addr
 4748801048,housenumber,2125,addr
+4748801048,postcode,84115,addr
 4748801048,state,UT,addr
 4748801048,street,S. 400 West,addr
 4748801048,facebook,https://www.facebook.com/Peterson-Company-1332309103458317/,contact
@@ -15336,6 +15409,7 @@ id,key,value,category
 4801781502,name,Papa Murphy's Pizza,regular
 4803922755,city,Murray,addr
 4803922755,housenumber,1100 E,addr
+4803922755,postcode,84121,addr
 4803922755,state,UT,addr
 4803922755,street,6600 South,addr
 4803922755,unit,510,addr
@@ -15346,6 +15420,7 @@ id,key,value,category
 4803922755,website,https://medallionbank.com/,regular
 4803922756,city,Murray,addr
 4803922756,housenumber,1100 E,addr
+4803922756,postcode,84121,addr
 4803922756,state,UT,addr
 4803922756,street,6600 South,addr
 4803922756,unit,420,addr
@@ -15391,6 +15466,7 @@ id,key,value,category
 4902865443,name,Little Caesars,regular
 4927258814,city,Murray,addr
 4927258814,housenumber,5993 South,addr
+4927258814,postcode,84107,addr
 4927258814,state,UT,addr
 4927258814,street,State Street,addr
 4927258814,description,Hockey and Lacrosse Equipment,regular
@@ -15401,6 +15477,7 @@ id,key,value,category
 4931376104,highway,crossing,regular
 4937862950,city,West Jordan,addr
 4937862950,housenumber,6671,addr
+4937862950,postcode,84084,addr
 4937862950,state,UT,addr
 4937862950,street,S Redwood Road,addr
 4937919931,kerb,lowered,regular
@@ -15425,6 +15502,7 @@ id,key,value,category
 4939781347,city,Salt Lake City,addr
 4939781347,country,US,addr
 4939781347,housenumber,2716,addr
+4939781347,postcode,84115,addr
 4939781347,state,UT,addr
 4939781347,street,South State Street,addr
 4939781347,email,KeyXLocalMap@gmail.com,regular
@@ -15489,7 +15567,7 @@ id,key,value,category
 4987536068,amenity,shop,regular
 4987536068,type,beauty,shop
 4987536069,amenity,shop,regular
-4987536069,type,jewellery,shop
+4987536069,type,jewelry,shop
 4987536070,amenity,fuel,regular
 4987536070,brand,7-Eleven,regular
 4993306550,highway,crossing,regular
@@ -15526,6 +15604,7 @@ id,key,value,category
 5062809805,type,alcohol,shop
 5062810102,city,Salt Lake City,addr
 5062810102,housenumber,3131 E,addr
+5062810102,postcode,84109,addr
 5062810102,state,UT,addr
 5062810102,street,3300 South,addr
 5062810102,name,Ski 'N See,regular
@@ -15533,6 +15612,7 @@ id,key,value,category
 5062810102,type,yes,shop
 5062833208,city,East Millcreek,addr
 5062833208,housenumber,3865,addr
+5062833208,postcode,84109,addr
 5062833208,state,UT,addr
 5062833208,street,3900 South,addr
 5062833208,name,Fresh Market,regular
@@ -15681,6 +15761,7 @@ id,key,value,category
 5065418252,highway,crossing,regular
 5068110531,city,Salt Lake City,addr
 5068110531,housenumber,1353E,addr
+5068110531,postcode,84106,addr
 5068110531,state,UT,addr
 5068110531,street,3300 South,addr
 5068110531,amenity,restaurant,regular
@@ -15694,6 +15775,7 @@ id,key,value,category
 5068110531,takeaway,yes,regular
 5068110531,website,http://www.longlifevegihouseut.com/,regular
 5087299221,housenumber,3353,addr
+5087299221,postcode,84119,addr
 5087299221,street,Decker Lake Drive,addr
 5087299221,amenity,restaurant,regular
 5087299221,cuisine,korean,regular
@@ -15755,6 +15837,7 @@ id,key,value,category
 5093886854,parking,underground,regular
 5101912323,city,Salt Lake City,addr
 5101912323,housenumber,1155,addr
+5101912323,postcode,84106,addr
 5101912323,state,UT,addr
 5101912323,street,2100 South,addr
 5101912323,name,Irving Schoolhouse,regular
@@ -15767,6 +15850,7 @@ id,key,value,category
 5101930426,name,Technique Recovering and Repair,regular
 5101934741,city,Salt Lake City,addr
 5101934741,housenumber,1121,addr
+5101934741,postcode,84106,addr
 5101934741,state,UT,addr
 5101934741,street,2100 South,addr
 5101934741,name,Raunch Records,regular
@@ -15777,7 +15861,7 @@ id,key,value,category
 5104339376,type,e-cigarette,shop
 5104340632,name,Red Hanger,regular
 5104340632,amenity,shop,regular
-5104340632,type,dry_cleaner,shop
+5104340632,type,dry_cleaning,shop
 5104341261,name,Play it again Sports,regular
 5104341261,amenity,shop,regular
 5104341261,type,sports,shop
@@ -15814,6 +15898,7 @@ id,key,value,category
 5112103666,highway,crossing,regular
 5112118051,city,Salt Lake City,addr
 5112118051,housenumber,1981,addr
+5112118051,postcode,84105,addr
 5112118051,state,UT,addr
 5112118051,street,View Street,addr
 5112118051,building,house,regular
@@ -15859,6 +15944,7 @@ id,key,value,category
 5131099420,name,Sweet Burrito,regular
 5132063274,city,Salt Lake City,addr
 5132063274,housenumber,2819 S,addr
+5132063274,postcode,84109,addr
 5132063274,state,UT,addr
 5132063274,street,2300 East,addr
 5132063274,amenity,restaurant,regular
@@ -15899,6 +15985,7 @@ id,key,value,category
 5192141048,sport,athletics,regular
 5229679002,city,Murray,addr
 5229679002,housenumber,4883,addr
+5229679002,postcode,84107,addr
 5229679002,state,UT,addr
 5229679002,street,Box Elder Street,addr
 5229679002,description,Recovery Ways is unique among addiction rehab centers.,regular
@@ -15916,6 +16003,7 @@ id,key,value,category
 5235770461,highway,crossing,regular
 5236175730,city,Murray,addr
 5236175730,housenumber,385,addr
+5236175730,postcode,84123,addr
 5236175730,state,UT,addr
 5236175730,street,4800 South,addr
 5236175730,description,"Recovery Ways is unique among addiction rehab centers. Not only in its substance abuse treatment services but also in its comfortable accommodations, passionate staff, and ability to move you or your loved one from addiction to recovery.",regular
@@ -16087,6 +16175,7 @@ id,key,value,category
 5276455305,type,second_hand,shop
 5277923316,city,Salt Lake City,addr
 5277923316,housenumber,1810,addr
+5277923316,postcode,84115,addr
 5277923316,state,UT,addr
 5277923316,street,Main Street,addr
 5277923316,amenity,restaurant,regular
@@ -16119,6 +16208,7 @@ id,key,value,category
 5282327019,name,Pottery,regular
 5294599321,city,Salt Lake City,addr
 5294599321,housenumber,1138,addr
+5294599321,postcode,84106,addr
 5294599321,state,UT,addr
 5294599321,street,Wilmington Avenue,addr
 5294599321,amenity,clinic,regular
@@ -16131,6 +16221,7 @@ id,key,value,category
 5294862878,name,Tosh's Ramen,regular
 5294952969,city,Milcreek,addr
 5294952969,housenumber,741E,addr
+5294952969,postcode,84106,addr
 5294952969,state,UT,addr
 5294952969,street,3300 South,addr
 5294952969,description,"South Asian grocer, specialising in Nepali foodstuffs.",regular
@@ -16142,6 +16233,7 @@ id,key,value,category
 5294952969,website,http://namastenangloutah.com,regular
 5294955982,city,South Salt Lake,addr
 5294955982,housenumber,3232,addr
+5294955982,postcode,84115,addr
 5294955982,state,UT,addr
 5294955982,street,400 East,addr
 5294955982,description,Sells African & Caribbean foodstuffs.Also haircare.,regular
@@ -16153,6 +16245,7 @@ id,key,value,category
 5294955982,website,https://www.facebook.com/Africandiscountmarket/,regular
 5294970018,city,East Millcreek,addr
 5294970018,housenumber,2343,addr
+5294970018,postcode,84109,addr
 5294970018,state,UT,addr
 5294970018,street,3300 South,addr
 5294970018,craft,shoemaker,regular
@@ -16185,6 +16278,7 @@ id,key,value,category
 5302513101,highway,stop,regular
 5307710434,city,Murray,addr
 5307710434,housenumber,4848,addr
+5307710434,postcode,84107,addr
 5307710434,state,UT,addr
 5307710434,street,Commerce Drive,addr
 5307710434,description,Recovery Ways is unique among addiction rehab centers. Call us Today at +1(385) 474-4533,regular
@@ -16238,29 +16332,36 @@ id,key,value,category
 5335992510,highway,crossing,regular
 5350713670,city,Salt Lake City,addr
 5350713670,housenumber,2350,addr
+5350713670,postcode,84109,addr
 5350713670,state,UT,addr
 5350713670,street,Foothill Drive,addr
 5350719752,city,Salt Lake City,addr
 5350719752,housenumber,2352,addr
+5350719752,postcode,84109,addr
 5350719752,state,UT,addr
 5350719752,street,Foothill Drive,addr
 5350719900,city,Salt Lake City,addr
 5350719900,housenumber,2356,addr
+5350719900,postcode,84109,addr
 5350719900,state,UT,addr
 5350719900,street,Foothill Drive,addr
 5350721675,city,Salt Lake City,addr
 5350721675,housenumber,2354,addr
+5350721675,postcode,84109,addr
 5350721675,state,UT,addr
 5350721675,street,Foothill Drive,addr
 5350725961,city,Salt Lake City,addr
 5350725961,housenumber,2348,addr
+5350725961,postcode,84109,addr
 5350725961,state,UT,addr
 5350725961,street,Foothill Drive,addr
 5362386022,housenumber,3830,addr
+5362386022,postcode,84119,addr
 5362386022,street,Canyon River Way,addr
 5362386022,tourism,apartment,regular
 5365316827,city,Murray,addr
 5365316827,housenumber,154,addr
+5365316827,postcode,84107,addr
 5365316827,state,UT,addr
 5365316827,street,East Myrtle Avenue,addr
 5365316827,description,"210WORKERS - Federal Workers Compensation Injury Clinic offer immediate, 24-hour emergency treatment for on-the-work injuries. Our board-certified Murray workers comp injury staff is dedicated to helping you get back to work quickly and safely.",regular
@@ -16283,6 +16384,7 @@ id,key,value,category
 5378435897,takeaway,yes,regular
 5378437230,city,West Valley City,addr
 5378437230,housenumber,3601,addr
+5378437230,postcode,84119,addr
 5378437230,state,UT,addr
 5378437230,street,Constitution Boulevard,addr
 5378437230,unit,K112,addr
@@ -16295,6 +16397,7 @@ id,key,value,category
 5378437230,website,https://badapplerepair.com/stores/valley-fair-mall,regular
 5379195474,city,Salt Lake City,addr
 5379195474,housenumber,723 E,addr
+5379195474,postcode,84106,addr
 5379195474,state,UT,addr
 5379195474,street,2100 South,addr
 5379195474,name,Bad Apple,regular
@@ -16307,11 +16410,13 @@ id,key,value,category
 5381001939,highway,bus_stop,regular
 5381001939,public_transport,platform,regular
 5384542721,housenumber,4197 S,addr
+5384542721,postcode,84107,addr
 5384542721,street,Main Street,addr
 5384542721,name,Artisan Spring,regular
 5384542721,tourism,apartment,regular
 5390744734,city,Murray,addr
 5390744734,housenumber,4768 So.,addr
+5390744734,postcode,84107,addr
 5390744734,state,UT,addr
 5390744734,street,State Street,addr
 5390744734,description,Computer Repair Company,regular
@@ -16390,22 +16495,27 @@ id,key,value,category
 5492025198,highway,turning_circle,regular
 5492025200,city,Murray,addr
 5492025200,housenumber,1279,addr
+5492025200,postcode,84121,addr
 5492025200,state,UT,addr
 5492025200,street,Quail Grove Circle,addr
 5492025201,city,Murray,addr
 5492025201,housenumber,1283,addr
+5492025201,postcode,84121,addr
 5492025201,state,UT,addr
 5492025201,street,Quail Grove Circle,addr
 5492025202,city,Murray,addr
 5492025202,housenumber,1291,addr
+5492025202,postcode,84121,addr
 5492025202,state,UT,addr
 5492025202,street,Quail Grove Circle,addr
 5492025203,city,Murray,addr
 5492025203,housenumber,1282,addr
+5492025203,postcode,84121,addr
 5492025203,state,UT,addr
 5492025203,street,Quail Grove Circle,addr
 5492025204,city,Murray,addr
 5492025204,housenumber,1288,addr
+5492025204,postcode,84121,addr
 5492025204,state,UT,addr
 5492025204,street,Quail Grove Circle,addr
 5492029342,bus,yes,regular
@@ -16418,6 +16528,7 @@ id,key,value,category
 5502370801,amenity,car_wash,regular
 5508350334,city,Salt Lake City,addr
 5508350334,housenumber,974,addr
+5508350334,postcode,84117,addr
 5508350334,state,UT,addr
 5508350334,street,Olympus Park Drive,addr
 5508350334,description,"Welcome home! Cottonwood Apartments features eight spacious floor plans with one, two, and three bedroom layouts.",regular
@@ -16448,6 +16559,7 @@ id,key,value,category
 5578956756,leisure,playground,regular
 5592691120,city,Holladay,addr
 5592691120,housenumber,6272,addr
+5592691120,postcode,84129,addr
 5592691120,street,South Highland Drive,addr
 5592691120,amenity,doctors,regular
 5592691120,healthcare,doctor,regular
@@ -16458,6 +16570,7 @@ id,key,value,category
 5592691120,website,https://intermountainhealthcare.org/locations/holladay-clinic/,regular
 5610581993,city,Salt Lake City,addr
 5610581993,housenumber,1997,addr
+5610581993,postcode,84106,addr
 5610581993,state,UT,addr
 5610581993,street,1100 East,addr
 5610581993,description,Making SkySpark® Work For You.,regular
@@ -16473,6 +16586,7 @@ id,key,value,category
 5617876755,highway,crossing,regular
 5625489868,city,West Valley City,addr
 5625489868,housenumber,3590,addr
+5625489868,postcode,84119,addr
 5625489868,state,UT,addr
 5625489868,street,Constitution Boulevard,addr
 5625489868,amenity,courthouse,regular
@@ -16613,6 +16727,7 @@ Salt Lake City, UT 84119",addr
 5759677063,public_transport,station,regular
 5771905596,city,Salt Lake City,addr
 5771905596,housenumber,1345,addr
+5771905596,postcode,84124,addr
 5771905596,state,UT,addr
 5771905596,street,E 3900 South,addr
 5771905596,unit,116,addr
@@ -16629,6 +16744,7 @@ Salt Lake City, UT 84119",addr
 5777964587,highway,stop,regular
 5778816880,city,Salt Lake City,addr
 5778816880,housenumber,1063 E,addr
+5778816880,postcode,84106,addr
 5778816880,state,UT,addr
 5778816880,street,3300 South,addr
 5778816880,unit,#201,addr
@@ -16638,6 +16754,7 @@ Salt Lake City, UT 84119",addr
 5778816880,sport,pilates,regular
 5778816881,city,Salt Lake City,addr
 5778816881,housenumber,1063 E,addr
+5778816881,postcode,84106,addr
 5778816881,state,UT,addr
 5778816881,street,3300 South,addr
 5778816881,unit,#102 A,addr
@@ -16647,6 +16764,7 @@ Salt Lake City, UT 84119",addr
 5778816881,type,beauty,shop
 5780659115,city,Salt Lake City,addr
 5780659115,housenumber,1073 E,addr
+5780659115,postcode,84106,addr
 5780659115,state,UT,addr
 5780659115,street,3300 South,addr
 5780659115,beauty,"waxing,_electrolysis",regular
@@ -16655,6 +16773,7 @@ Salt Lake City, UT 84119",addr
 5780659115,type,beauty,shop
 5780659302,city,Salt Lake City,addr
 5780659302,housenumber,1021,addr
+5780659302,postcode,84106,addr
 5780659302,state,UT,addr
 5780659302,street,3300 South,addr
 5780659302,amenity,veterinary,regular
@@ -16668,6 +16787,7 @@ Salt Lake City, UT 84119",addr
 5780659303,type,optician,shop
 5780659375,city,Salt Lake City,addr
 5780659375,housenumber,910,addr
+5780659375,postcode,84106,addr
 5780659375,state,UT,addr
 5780659375,street,3300 South,addr
 5780659375,leisure,fitness_centre,regular
@@ -16675,6 +16795,7 @@ Salt Lake City, UT 84119",addr
 5780659375,opening_hours,Mo-Su 05:00-22:00,regular
 5780659376,city,Salt Lake City,addr
 5780659376,housenumber,3446,addr
+5780659376,postcode,84106,addr
 5780659376,state,UT,addr
 5780659376,street,900 East,addr
 5780659376,name,Libreria Cristiana Shekinah,regular
@@ -16683,6 +16804,7 @@ Salt Lake City, UT 84119",addr
 5780659376,type,books,shop
 5780659377,city,Salt Lake City,addr
 5780659377,housenumber,910 E,addr
+5780659377,postcode,84106,addr
 5780659377,state,UT,addr
 5780659377,street,3300 South,addr
 5780659377,leisure,fitness_centre,regular
@@ -16690,6 +16812,7 @@ Salt Lake City, UT 84119",addr
 5780659377,opening_hours,"Mo-Fr 4:30-22:00, Sa-Su 6:00-12:00",regular
 5780659382,city,Salt Lake City,addr
 5780659382,housenumber,3335 S,addr
+5780659382,postcode,84106,addr
 5780659382,state,UT,addr
 5780659382,street,900 East,addr
 5780659382,unit,#200,addr
@@ -16698,6 +16821,7 @@ Salt Lake City, UT 84119",addr
 5780659382,type,pet_grooming,shop
 5780659383,city,Salt Lake City,addr
 5780659383,housenumber,3335,addr
+5780659383,postcode,84106,addr
 5780659383,state,UT,addr
 5780659383,street,900 East,addr
 5780659383,unit,#200,addr
@@ -16705,6 +16829,7 @@ Salt Lake City, UT 84119",addr
 5780659383,office,lawyer,regular
 5782280218,city,Salt Lake City,addr
 5782280218,housenumber,733,addr
+5782280218,postcode,84106,addr
 5782280218,state,UT,addr
 5782280218,street,E 3300 South,addr
 5782280218,amenity,restaurant,regular
@@ -16876,6 +17001,7 @@ Salt Lake City, UT 84119",addr
 5795004471,type,double,swing_gate
 5795512885,city,Salt Lake City,addr
 5795512885,housenumber,623,addr
+5795512885,postcode,84106,addr
 5795512885,state,UT,addr
 5795512885,street,E 2100 South,addr
 5795512885,unit,#201,addr
@@ -16885,11 +17011,13 @@ Salt Lake City, UT 84119",addr
 5795512885,website,https://www.slcinsurancemax.com/,regular
 5797941994,highway,crossing,regular
 5823560853,housenumber,1217,addr
+5823560853,postcode,84106,addr
 5823560853,street,East Painter Way,addr
 5823560853,name,Paisley's House,regular
 5823560853,tourism,apartment,regular
 5838025948,city,Salt Lake City,addr
 5838025948,housenumber,2120,addr
+5838025948,postcode,84124,addr
 5838025948,state,UT,addr
 5838025948,street,"E 3900 S, #102",addr
 5838025948,fax,+1801-274-0590,regular
@@ -16921,6 +17049,7 @@ Salt Lake City, UT 84119",addr
 5846749460,highway,stop,regular
 5851672738,city,Salt Lake City,addr
 5851672738,housenumber,3165 E,addr
+5851672738,postcode,84109,addr
 5851672738,state,UT,addr
 5851672738,street,3300 South,addr
 5851672738,amenity,fast_food,regular
@@ -16929,6 +17058,7 @@ Salt Lake City, UT 84119",addr
 5851672738,operator,Menchie's,regular
 5851850963,city,Salt Lake City,addr
 5851850963,housenumber,3295 S,addr
+5851850963,postcode,84109,addr
 5851850963,state,UT,addr
 5851850963,street,2000 East,addr
 5851850963,name,Evergreen Framing Co & Gallery,regular
@@ -16936,6 +17066,7 @@ Salt Lake City, UT 84119",addr
 5851850963,type,picture_framing,shop
 5851850964,city,Salt Lake City,addr
 5851850964,housenumber,3295 S,addr
+5851850964,postcode,84109,addr
 5851850964,state,UT,addr
 5851850964,street,2000 East,addr
 5851850964,name,Wool cabin,regular
@@ -16943,6 +17074,7 @@ Salt Lake City, UT 84119",addr
 5851850964,type,sewing,shop
 5851850969,city,Salt Lake City,addr
 5851850969,housenumber,2043 E,addr
+5851850969,postcode,84109,addr
 5851850969,state,UT,addr
 5851850969,street,3300 South,addr
 5851850969,name,Dr Volt's Comic Connection,regular
@@ -16950,6 +17082,7 @@ Salt Lake City, UT 84119",addr
 5851850969,type,comics,shop
 5851850970,city,Salt Lake City,addr
 5851850970,housenumber,2630 E,addr
+5851850970,postcode,84109,addr
 5851850970,state,UT,addr
 5851850970,street,3300 South,addr
 5851850970,name,Steve's Style Setter Wig & Salon,regular
@@ -16957,6 +17090,7 @@ Salt Lake City, UT 84119",addr
 5851850970,type,hairdresser,shop
 5851850971,city,Salt Lake City,addr
 5851850971,housenumber,2021 E,addr
+5851850971,postcode,84109,addr
 5851850971,state,UT,addr
 5851850971,street,3300 South,addr
 5851850971,name,The Net Set,regular
@@ -16964,6 +17098,7 @@ Salt Lake City, UT 84119",addr
 5851850971,type,sports,shop
 5851850972,city,Salt Lake City,addr
 5851850972,housenumber,2037 E,addr
+5851850972,postcode,84109,addr
 5851850972,state,UT,addr
 5851850972,street,3300 South,addr
 5851850972,name,...and sew on,regular
@@ -16971,6 +17106,7 @@ Salt Lake City, UT 84119",addr
 5851850972,type,sewing,shop
 5851850973,city,Salt Lake City,addr
 5851850973,housenumber,2047 E,addr
+5851850973,postcode,84109,addr
 5851850973,state,UT,addr
 5851850973,street,3300 South,addr
 5851850973,name,The Dog's Meouw,regular
@@ -16978,6 +17114,7 @@ Salt Lake City, UT 84119",addr
 5851850973,type,pet,shop
 5851884310,city,Salt Lake City,addr
 5851884310,housenumber,2327 E,addr
+5851884310,postcode,84109,addr
 5851884310,state,UT,addr
 5851884310,street,3300 South,addr
 5851884310,name,Silver Star Hardware,regular
@@ -16985,6 +17122,7 @@ Salt Lake City, UT 84119",addr
 5851884310,type,hardware,shop
 5851884311,city,Salt Lake City,addr
 5851884311,housenumber,2311 E,addr
+5851884311,postcode,84109,addr
 5851884311,state,UT,addr
 5851884311,street,2300 East,addr
 5851884311,name,Check City,regular
@@ -16992,6 +17130,7 @@ Salt Lake City, UT 84119",addr
 5851884311,type,yes,shop
 5852132523,city,Salt Lake City,addr
 5852132523,housenumber,1202 E,addr
+5852132523,postcode,84106,addr
 5852132523,state,UT,addr
 5852132523,street,Wilmington Avenue,addr
 5852132523,amenity,restaurant,regular
@@ -17016,6 +17155,7 @@ Salt Lake City, UT 84119",addr
 5854890826,website,https://stores.guitarcenter.com/salt-lake-city,regular
 5857349514,city,Salt Lake City,addr
 5857349514,housenumber,965 E,addr
+5857349514,postcode,84106,addr
 5857349514,state,UT,addr
 5857349514,street,3300 South,addr
 5857349514,name,Universal Systems Inc.,regular
@@ -17034,6 +17174,7 @@ Salt Lake City, UT 84119",addr
 5871118126,barrier,lift_gate,regular
 5871176310,city,Salt Lake City,addr
 5871176310,housenumber,3330 S,addr
+5871176310,postcode,84106,addr
 5871176310,state,UT,addr
 5871176310,street,700 East,addr
 5871176310,amenity,post_office,regular
@@ -17057,6 +17198,7 @@ Salt Lake City, UT 84119",addr
 5885505336,website,https://www.shulas.com/shulas-347grill/west-valley/,regular
 5895976178,city,Salt Lake City,addr
 5895976178,housenumber,925,addr
+5895976178,postcode,84117,addr
 5895976178,state,UT,addr
 5895976178,street,Executive Park Drive,addr
 5895976178,unit,#A,addr
@@ -17077,6 +17219,7 @@ Salt Lake City, UT 84119",addr
 5907515960,tourism,artwork,regular
 5910904521,city,Salt Lake City,addr
 5910904521,housenumber,411,addr
+5910904521,postcode,84115,addr
 5910904521,state,UT,addr
 5910904521,street,West Ironwood Drive,addr
 5910904521,name,"Cleanville Carpet, Rug & Stone Care",regular
@@ -17139,6 +17282,7 @@ Salt Lake City, UT 84119",addr
 5925421537,barrier,gate,regular
 5930668865,city,Salt Lake City,addr
 5930668865,housenumber,60,addr
+5930668865,postcode,84115,addr
 5930668865,state,UT,addr
 5930668865,street,3300 South,addr
 5930668865,unit,2,addr
@@ -17158,6 +17302,7 @@ Salt Lake City, UT 84119",addr
 5935692027,name,Shaharazad,regular
 5935692028,city,Salt Lake City,addr
 5935692028,housenumber,1860S,addr
+5935692028,postcode,84115,addr
 5935692028,state,UT,addr
 5935692028,street,300 West,addr
 5935692028,vegan,only,diet
@@ -17186,6 +17331,7 @@ Salt Lake City, UT 84119",addr
 5935814381,name,Citris Grill,regular
 5935814383,city,Salt Lake City,addr
 5935814383,housenumber,2223S,addr
+5935814383,postcode,84106,addr
 5935814383,state,UT,addr
 5935814383,street,Highland Drive,addr
 5935814383,unit,E-5,addr
@@ -17232,6 +17378,7 @@ Salt Lake City, UT 84119",addr
 5965828146,highway,turning_circle,regular
 5966274066,city,Taylorsville,addr
 5966274066,housenumber,5663,addr
+5966274066,postcode,84123,addr
 5966274066,state,UT,addr
 5966274066,street,South Redwood Road,addr
 5966274066,unit,1,addr
@@ -17340,6 +17487,7 @@ Salt Lake City, UT 84119",addr
 6005234396,barrier,gate,regular
 6005500239,city,Salt Lake City,addr
 6005500239,housenumber,863,addr
+6005500239,postcode,84105,addr
 6005500239,state,UT,addr
 6005500239,street,EaSouth,addr
 6005500239,amenity,place_of_worship,regular
@@ -17522,6 +17670,7 @@ Salt Lake City, UT 84119",addr
 6074937511,barrier,gate,regular
 6076438437,city,Salt Lake City,addr
 6076438437,housenumber,2021S,addr
+6076438437,postcode,84105,addr
 6076438437,state,UT,addr
 6076438437,street,Windsor Street,addr
 6076438437,amenity,restaurant,regular
@@ -17536,6 +17685,7 @@ Salt Lake City, UT 84119",addr
 6076438437,website,https://www.littlesaigonutah.com/,regular
 6076438438,city,Salt Lake City,addr
 6076438438,housenumber,790E,addr
+6076438438,postcode,84106,addr
 6076438438,state,UT,addr
 6076438438,street,2100 South,addr
 6076438438,amenity,restaurant,regular
@@ -17551,6 +17701,7 @@ Salt Lake City, UT 84119",addr
 6076438438,website,http://ofalafeletc.com/,regular
 6079153912,city,Salt Lake City,addr
 6079153912,housenumber,54,addr
+6079153912,postcode,84115,addr
 6079153912,state,UT,addr
 6079153912,street,W 2100 South,addr
 6079153912,unit,#6,addr
@@ -17578,6 +17729,7 @@ Salt Lake City, UT 84119",addr
 6086491686,name,Madsen Apartments,regular
 6086491687,city,Salt Lake City,addr
 6086491687,housenumber,2051,addr
+6086491687,postcode,84106,addr
 6086491687,state,UT,addr
 6086491687,street,1100 East,addr
 6086491687,building,yes,regular
@@ -17591,6 +17743,7 @@ Salt Lake City, UT 84119",addr
 6086491925,shelter,yes,regular
 6086494502,city,Salt Lake City,addr
 6086494502,housenumber,1063,addr
+6086494502,postcode,84105,addr
 6086494502,street,2100 South,addr
 6086494502,amenity,restaurant,regular
 6086494502,building,yes,regular
@@ -17601,6 +17754,7 @@ Salt Lake City, UT 84119",addr
 6086498656,shelter,no,regular
 6086498658,city,Salt Lake City,addr
 6086498658,housenumber,1025,addr
+6086498658,postcode,84106,addr
 6086498658,state,UT,addr
 6086498658,street,2100 South,addr
 6086498658,building,commercial,regular
@@ -17627,6 +17781,7 @@ Salt Lake City, UT 84119",addr
 6086572003,shelter,no,regular
 6088855134,city,Salt Lake City,addr
 6088855134,housenumber,790E,addr
+6088855134,postcode,84106,addr
 6088855134,state,UT,addr
 6088855134,street,2100S,addr
 6088855134,amenity,restaurant,regular
@@ -17634,6 +17789,7 @@ Salt Lake City, UT 84119",addr
 6088855134,name,Original Pancake House,regular
 6088855135,city,Salt Lake City,addr
 6088855135,housenumber,790E,addr
+6088855135,postcode,84106,addr
 6088855135,state,UT,addr
 6088855135,street,2100 South,addr
 6088855135,unit,200,addr
@@ -17669,7 +17825,7 @@ Salt Lake City, UT 84119",addr
 6114406266,description,"silversmith, jewelry, small decor.",regular
 6114406266,name,Pixel + Torch,regular
 6114406266,amenity,shop,regular
-6114406266,type,jewellery,shop
+6114406266,type,jewelry,shop
 6114406267,amenity,restaurant,regular
 6114406267,cuisine,juice,regular
 6114406267,name,Just Organic Juice,regular
@@ -17681,6 +17837,7 @@ Salt Lake City, UT 84119",addr
 6144285544,barrier,gate,regular
 6147813668,city,Murray,addr
 6147813668,housenumber,154,addr
+6147813668,postcode,84107,addr
 6147813668,state,UT,addr
 6147813668,street,Myrtle Ave Ste 100,addr
 6147813668,amenity,place_of_worship,regular
@@ -17690,6 +17847,7 @@ Salt Lake City, UT 84119",addr
 6147813668,website,http://fitprosthetics.com/,regular
 6174875689,city,Salt Lake City,addr
 6174875689,housenumber,2928,addr
+6174875689,postcode,84115,addr
 6174875689,state,UT,addr
 6174875689,street,State Street,addr
 6174875689,brand,Harley-Davidson,regular
@@ -17910,6 +18068,7 @@ Salt Lake City, UT 84119",addr
 6275988655,highway,crossing,regular
 6283473387,city,South Salt Lake,addr
 6283473387,housenumber,2364 S,addr
+6283473387,postcode,84115,addr
 6283473387,state,UT,addr
 6283473387,street,West Temple,addr
 6283473387,name,Innovative Inks,regular
@@ -17922,6 +18081,7 @@ Salt Lake City, UT 84119",addr
 6290430670,website,www.litlscholars.com,regular
 6290446886,city,Salt Lake CIty,addr
 6290446886,housenumber,2567,addr
+6290446886,postcode,84115,addr
 6290446886,state,UT,addr
 6290446886,street,Main Street,addr
 6290446886,amenity,school,regular
@@ -18028,6 +18188,7 @@ Salt Lake City, UT 84119",addr
 6395224568,barrier,yes,regular
 6400328760,city,Midvale,addr
 6400328760,housenumber,6770,addr
+6400328760,postcode,84047,addr
 6400328760,state,UT,addr
 6400328760,street,South 900 East,addr
 6400328760,unit,202,addr
@@ -18039,6 +18200,7 @@ Salt Lake City, UT 84119",addr
 6407955119,barrier,gate,regular
 6409259967,city,Salt Lake City,addr
 6409259967,housenumber,231,addr
+6409259967,postcode,84115,addr
 6409259967,state,UT,addr
 6409259967,street,East 2100 South,addr
 6409259967,unit,Suite 203,addr
@@ -18052,6 +18214,7 @@ Salt Lake City, UT 84119",addr
 6414146924,name,Historical Site - South Cottonwood Temple Rest Camp,regular
 6415476451,city,Salt Lake City,addr
 6415476451,housenumber,2006 South,addr
+6415476451,postcode,84106,addr
 6415476451,state,UT,addr
 6415476451,street,900 East,addr
 6415476451,beauty,hair,regular
